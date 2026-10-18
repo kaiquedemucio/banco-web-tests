@@ -1,0 +1,107 @@
+[33mcommit f8ff9a2583ea77efc2a5ad31de08a6d461fa04e4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madicionando-variaveis-de-ambiente[m[33m, [m[1;31morigin/adicionando-variaveis-de-ambiente[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 15:34:04 2026 -0300
+
+    Adicionando a variável URL como variavel de ambiente
+
+[33mcommit 7b1e3a18c81977ea2354a7defc18e0a70af295f3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 0874ed8 6352364
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Sun Oct 18 15:19:31 2026 -0300
+
+    Merge pull request #6 from kaiquedemucio/adicionando-fixtures
+    
+    Adicionei dados povenientes do fixture e alterei o .gitignore
+
+[33mcommit 6352364eed1c815b8028127e1476b4da7cff1130[m[33m ([m[1;31morigin/adicionando-fixtures[m[33m, [m[1;32madicionando-fixtures[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 15:18:56 2026 -0300
+
+    Adicionei dados povenientes do fixture e alterei o .gitignore
+
+[33mcommit 0874ed843523abe308b8da01361d88dbe972d9eb[m
+Merge: 908ae97 608920c
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Sun Oct 18 14:55:08 2026 -0300
+
+    Merge pull request #5 from kaiquedemucio/adicionando-screenshots
+    
+    Adicionando screenshots
+
+[33mcommit 608920c4a6e291d0e2473ed23325fecf4168e671[m[33m ([m[1;31morigin/adicionando-screenshots[m[33m, [m[1;32madicionando-screenshots[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 14:54:36 2026 -0300
+
+    Removendo o .only esquecido
+
+[33mcommit a694dc2217da5b97eea6046351d9e73ca8afa937[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 14:53:15 2026 -0300
+
+    Adicionando screenshots
+
+[33mcommit 908ae970a5e166579e253a6be7f46910af5baf98[m
+Merge: 8e79563 f7fc868
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Sun Oct 18 14:33:33 2026 -0300
+
+    Merge pull request #4 from kaiquedemucio/adicionando-scripts-de-linha-de-comando
+    
+    Adicionando scripts para execução dos testes no package.json
+
+[33mcommit f7fc8681e502c62aaf30c716606c7ee97fda8289[m[33m ([m[1;31morigin/adicionando-scripts-de-linha-de-comando[m[33m, [m[1;32madicionando-scripts-de-linha-de-comando[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 14:32:32 2026 -0300
+
+    Adicionando scripts para execução dos testes no package.json
+
+[33mcommit 8e79563f8110c3a6c9c75205a9ab09fa90f5b525[m
+Merge: d8354a4 bef5aa1
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Sun Oct 18 14:07:33 2026 -0300
+
+    Merge pull request #3 from kaiquedemucio/adicionando-before-each-no-login
+    
+    Adicionei o beforeEach para o acesso a página de login
+
+[33mcommit bef5aa19d0dcba333c640d0cad5a49cc6690e174[m[33m ([m[1;31morigin/adicionando-before-each-no-login[m[33m, [m[1;32madicionando-before-each-no-login[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 14:06:21 2026 -0300
+
+    Adicionei o beforeEach para o acesso a página de login
+
+[33mcommit d8354a47e19155502aca65d855665a7cfee8f927[m
+Merge: 9cb42c3 801ffd3
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Sun Oct 18 13:59:07 2026 -0300
+
+    Merge pull request #2 from kaiquedemucio/adicionando-novo-teste-login-falho
+    
+    Adicionei um teste para validar o login com credenciais inválidas
+
+[33mcommit 801ffd38153b5edd12a0f7e7ef74aa6ef08666f4[m[33m ([m[1;31morigin/adicionando-novo-teste-login-falho[m[33m, [m[1;32madicionando-novo-teste-login-falho[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sun Oct 18 13:58:23 2026 -0300
+
+    Adicionei um teste para validar o login com credenciais inválidas
+
+[33mcommit 9cb42c383eca8e30fe8d88a5187052db9a677e19[m
+Merge: 6653814 fc31b45
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Sat Oct 17 20:35:20 2026 -0300
+
+    Merge pull request #1 from kaiquedemucio/projeto-inicial
+    
+    Adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit fc31b450402028ac6cfc7a71bfc2753091db9123[m[33m ([m[1;31morigin/projeto-inicial[m[33m, [m[1;32mprojeto-inicial[m[33m)[m
+Author: Kaique <kaique.demucio@gmail.com>
+Date:   Sat Oct 17 20:33:33 2026 -0300
+
+    Adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit 665381466aba3f23a20009adcd526e7039cd1085[m
+Author: Kaique Demucio <42441694+kaiquedemucio@users.noreply.github.com>
+Date:   Fri Oct 16 12:05:58 2026 -0300
+
+    Initial commit
