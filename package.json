@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kaiquedemucio/banco-web-tests#readme",
   "devDependencies": {
-    "cypress": "^14.5.1"
+    "cypress": "^14.5.1",
+    "cypress-mochawesome-reporter": "^5.0.0"
   }
 }
